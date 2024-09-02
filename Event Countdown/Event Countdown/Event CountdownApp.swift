@@ -1,5 +1,5 @@
 //
-//  Event_CountdownApp.swift
+//  Event CountdownApp.swift
 //  Event Countdown
 //
 //  Created by MAC on 9/2/24.
@@ -7,8 +7,7 @@
 
 import SwiftUI
 
-@main
-struct Event_CountdownApp: App {
+struct EventCountdownApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

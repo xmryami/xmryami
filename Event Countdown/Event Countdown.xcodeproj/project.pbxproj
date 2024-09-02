@@ -7,28 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		048B34E32C7CF3B80002E344 /* Event_CountdownApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B34E22C7CF3B80002E344 /* Event_CountdownApp.swift */; };
-		048B34E92C7CF3BC0002E344 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048B34E82C7CF3BC0002E344 /* Assets.xcassets */; };
-		048B34EC2C7CF3BC0002E344 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 048B34EB2C7CF3BC0002E344 /* Preview Assets.xcassets */; };
-		048B34F52C7CF45F0002E344 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B34F42C7CF45F0002E344 /* EventsView.swift */; };
-		048B34F72C7CF4AB0002E344 /* EventRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B34F62C7CF4AB0002E344 /* EventRow.swift */; };
-		048B34F92C7CF4EC0002E344 /* EventForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B34F82C7CF4EC0002E344 /* EventForm.swift */; };
-		048B34FB2C7CF6FF0002E344 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B34FA2C7CF6FF0002E344 /* Event.swift */; };
+		041FBEA82C85DBA100A9B8A1 /* Event_CountdownApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEA72C85DBA100A9B8A1 /* Event_CountdownApp.swift */; };
+		041FBEAA2C85DBA100A9B8A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEA92C85DBA100A9B8A1 /* ContentView.swift */; };
+		041FBEAC2C85DBA500A9B8A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041FBEAB2C85DBA500A9B8A1 /* Assets.xcassets */; };
+		041FBEAF2C85DBA500A9B8A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041FBEAE2C85DBA500A9B8A1 /* Preview Assets.xcassets */; };
+		041FBEB82C85DC0E00A9B8A1 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEB72C85DC0E00A9B8A1 /* Event.swift */; };
+		041FBEBA2C85DC4A00A9B8A1 /* Event CountdownApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEB92C85DC4A00A9B8A1 /* Event CountdownApp.swift */; };
+		041FBEBC2C85DC7900A9B8A1 /* EventForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEBB2C85DC7900A9B8A1 /* EventForm.swift */; };
+		041FBEBE2C85DC9900A9B8A1 /* EventRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEBD2C85DC9900A9B8A1 /* EventRow.swift */; };
+		041FBEC02C85DCC900A9B8A1 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEBF2C85DCC900A9B8A1 /* TimerManager.swift */; };
+		041FBEC22C85DD0000A9B8A1 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041FBEC12C85DD0000A9B8A1 /* EventsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		048B34DF2C7CF3B80002E344 /* Event Countdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Event Countdown.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		048B34E22C7CF3B80002E344 /* Event_CountdownApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event_CountdownApp.swift; sourceTree = "<group>"; };
-		048B34E82C7CF3BC0002E344 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		048B34EB2C7CF3BC0002E344 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		048B34F42C7CF45F0002E344 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
-		048B34F62C7CF4AB0002E344 /* EventRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRow.swift; sourceTree = "<group>"; };
-		048B34F82C7CF4EC0002E344 /* EventForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventForm.swift; sourceTree = "<group>"; };
-		048B34FA2C7CF6FF0002E344 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		041FBEA42C85DBA100A9B8A1 /* Event Countdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Event Countdown.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		041FBEA72C85DBA100A9B8A1 /* Event_CountdownApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event_CountdownApp.swift; sourceTree = "<group>"; };
+		041FBEA92C85DBA100A9B8A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		041FBEAB2C85DBA500A9B8A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		041FBEAE2C85DBA500A9B8A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		041FBEB72C85DC0E00A9B8A1 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		041FBEB92C85DC4A00A9B8A1 /* Event CountdownApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Event CountdownApp.swift"; sourceTree = "<group>"; };
+		041FBEBB2C85DC7900A9B8A1 /* EventForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventForm.swift; sourceTree = "<group>"; };
+		041FBEBD2C85DC9900A9B8A1 /* EventRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRow.swift; sourceTree = "<group>"; };
+		041FBEBF2C85DCC900A9B8A1 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		041FBEC12C85DD0000A9B8A1 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		048B34DC2C7CF3B80002E344 /* Frameworks */ = {
+		041FBEA12C85DBA100A9B8A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,40 +44,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		048B34D62C7CF3B80002E344 = {
+		041FBE9B2C85DBA100A9B8A1 = {
 			isa = PBXGroup;
 			children = (
-				048B34E12C7CF3B80002E344 /* Event Countdown */,
-				048B34E02C7CF3B80002E344 /* Products */,
+				041FBEA62C85DBA100A9B8A1 /* Event Countdown */,
+				041FBEA52C85DBA100A9B8A1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		048B34E02C7CF3B80002E344 /* Products */ = {
+		041FBEA52C85DBA100A9B8A1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				048B34DF2C7CF3B80002E344 /* Event Countdown.app */,
+				041FBEA42C85DBA100A9B8A1 /* Event Countdown.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		048B34E12C7CF3B80002E344 /* Event Countdown */ = {
+		041FBEA62C85DBA100A9B8A1 /* Event Countdown */ = {
 			isa = PBXGroup;
 			children = (
-				048B34E22C7CF3B80002E344 /* Event_CountdownApp.swift */,
-				048B34F42C7CF45F0002E344 /* EventsView.swift */,
-				048B34F62C7CF4AB0002E344 /* EventRow.swift */,
-				048B34F82C7CF4EC0002E344 /* EventForm.swift */,
-				048B34FA2C7CF6FF0002E344 /* Event.swift */,
-				048B34E82C7CF3BC0002E344 /* Assets.xcassets */,
-				048B34EA2C7CF3BC0002E344 /* Preview Content */,
+				041FBEA72C85DBA100A9B8A1 /* Event_CountdownApp.swift */,
+				041FBEA92C85DBA100A9B8A1 /* ContentView.swift */,
+				041FBEB72C85DC0E00A9B8A1 /* Event.swift */,
+				041FBEB92C85DC4A00A9B8A1 /* Event CountdownApp.swift */,
+				041FBEBB2C85DC7900A9B8A1 /* EventForm.swift */,
+				041FBEBD2C85DC9900A9B8A1 /* EventRow.swift */,
+				041FBEBF2C85DCC900A9B8A1 /* TimerManager.swift */,
+				041FBEC12C85DD0000A9B8A1 /* EventsView.swift */,
+				041FBEAB2C85DBA500A9B8A1 /* Assets.xcassets */,
+				041FBEAD2C85DBA500A9B8A1 /* Preview Content */,
 			);
 			path = "Event Countdown";
 			sourceTree = "<group>";
 		};
-		048B34EA2C7CF3BC0002E344 /* Preview Content */ = {
+		041FBEAD2C85DBA500A9B8A1 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				048B34EB2C7CF3BC0002E344 /* Preview Assets.xcassets */,
+				041FBEAE2C85DBA500A9B8A1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -79,13 +88,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		048B34DE2C7CF3B80002E344 /* Event Countdown */ = {
+		041FBEA32C85DBA100A9B8A1 /* Event Countdown */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 048B34EF2C7CF3BC0002E344 /* Build configuration list for PBXNativeTarget "Event Countdown" */;
+			buildConfigurationList = 041FBEB22C85DBA500A9B8A1 /* Build configuration list for PBXNativeTarget "Event Countdown" */;
 			buildPhases = (
-				048B34DB2C7CF3B80002E344 /* Sources */,
-				048B34DC2C7CF3B80002E344 /* Frameworks */,
-				048B34DD2C7CF3B80002E344 /* Resources */,
+				041FBEA02C85DBA100A9B8A1 /* Sources */,
+				041FBEA12C85DBA100A9B8A1 /* Frameworks */,
+				041FBEA22C85DBA100A9B8A1 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -93,25 +102,25 @@
 			);
 			name = "Event Countdown";
 			productName = "Event Countdown";
-			productReference = 048B34DF2C7CF3B80002E344 /* Event Countdown.app */;
+			productReference = 041FBEA42C85DBA100A9B8A1 /* Event Countdown.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		048B34D72C7CF3B80002E344 /* Project object */ = {
+		041FBE9C2C85DBA100A9B8A1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					048B34DE2C7CF3B80002E344 = {
+					041FBEA32C85DBA100A9B8A1 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = 048B34DA2C7CF3B80002E344 /* Build configuration list for PBXProject "Event Countdown" */;
+			buildConfigurationList = 041FBE9F2C85DBA100A9B8A1 /* Build configuration list for PBXProject "Event Countdown" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,45 +128,48 @@
 				en,
 				Base,
 			);
-			mainGroup = 048B34D62C7CF3B80002E344;
-			productRefGroup = 048B34E02C7CF3B80002E344 /* Products */;
+			mainGroup = 041FBE9B2C85DBA100A9B8A1;
+			productRefGroup = 041FBEA52C85DBA100A9B8A1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				048B34DE2C7CF3B80002E344 /* Event Countdown */,
+				041FBEA32C85DBA100A9B8A1 /* Event Countdown */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		048B34DD2C7CF3B80002E344 /* Resources */ = {
+		041FBEA22C85DBA100A9B8A1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				048B34EC2C7CF3BC0002E344 /* Preview Assets.xcassets in Resources */,
-				048B34E92C7CF3BC0002E344 /* Assets.xcassets in Resources */,
+				041FBEAF2C85DBA500A9B8A1 /* Preview Assets.xcassets in Resources */,
+				041FBEAC2C85DBA500A9B8A1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		048B34DB2C7CF3B80002E344 /* Sources */ = {
+		041FBEA02C85DBA100A9B8A1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				048B34F72C7CF4AB0002E344 /* EventRow.swift in Sources */,
-				048B34F52C7CF45F0002E344 /* EventsView.swift in Sources */,
-				048B34F92C7CF4EC0002E344 /* EventForm.swift in Sources */,
-				048B34E32C7CF3B80002E344 /* Event_CountdownApp.swift in Sources */,
-				048B34FB2C7CF6FF0002E344 /* Event.swift in Sources */,
+				041FBEAA2C85DBA100A9B8A1 /* ContentView.swift in Sources */,
+				041FBEBE2C85DC9900A9B8A1 /* EventRow.swift in Sources */,
+				041FBEBC2C85DC7900A9B8A1 /* EventForm.swift in Sources */,
+				041FBEC22C85DD0000A9B8A1 /* EventsView.swift in Sources */,
+				041FBEB82C85DC0E00A9B8A1 /* Event.swift in Sources */,
+				041FBEA82C85DBA100A9B8A1 /* Event_CountdownApp.swift in Sources */,
+				041FBEC02C85DCC900A9B8A1 /* TimerManager.swift in Sources */,
+				041FBEBA2C85DC4A00A9B8A1 /* Event CountdownApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		048B34ED2C7CF3BC0002E344 /* Debug */ = {
+		041FBEB02C85DBA500A9B8A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -220,7 +232,7 @@
 			};
 			name = Debug;
 		};
-		048B34EE2C7CF3BC0002E344 /* Release */ = {
+		041FBEB12C85DBA500A9B8A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -276,7 +288,7 @@
 			};
 			name = Release;
 		};
-		048B34F02C7CF3BC0002E344 /* Debug */ = {
+		041FBEB32C85DBA500A9B8A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -304,7 +316,7 @@
 			};
 			name = Debug;
 		};
-		048B34F12C7CF3BC0002E344 /* Release */ = {
+		041FBEB42C85DBA500A9B8A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -335,25 +347,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		048B34DA2C7CF3B80002E344 /* Build configuration list for PBXProject "Event Countdown" */ = {
+		041FBE9F2C85DBA100A9B8A1 /* Build configuration list for PBXProject "Event Countdown" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				048B34ED2C7CF3BC0002E344 /* Debug */,
-				048B34EE2C7CF3BC0002E344 /* Release */,
+				041FBEB02C85DBA500A9B8A1 /* Debug */,
+				041FBEB12C85DBA500A9B8A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		048B34EF2C7CF3BC0002E344 /* Build configuration list for PBXNativeTarget "Event Countdown" */ = {
+		041FBEB22C85DBA500A9B8A1 /* Build configuration list for PBXNativeTarget "Event Countdown" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				048B34F02C7CF3BC0002E344 /* Debug */,
-				048B34F12C7CF3BC0002E344 /* Release */,
+				041FBEB32C85DBA500A9B8A1 /* Debug */,
+				041FBEB42C85DBA500A9B8A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 048B34D72C7CF3B80002E344 /* Project object */;
+	rootObject = 041FBE9C2C85DBA100A9B8A1 /* Project object */;
 }

@@ -2,12 +2,12 @@
 //  Event.swift
 //  Event Countdown
 //
-//  Created by MAC on 8/26/24.
+//  Created by MAC on 9/2/24.
 //
 
 import SwiftUI
 
-struct Event: Identifiable, Comparable {
+struct Event: Identifiable, Comparable, Hashable {
     let id: UUID
     var title: String
     var date: Date
